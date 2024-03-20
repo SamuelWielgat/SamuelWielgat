@@ -11,9 +11,9 @@ Welcome to my profile! I'm a Java specialist with a passion for coding, currentl
 💡 **Sharpening Skills:**  
     - Solving LeetCode and CodeWars problems to prep for interviews and enhance my problem-solving prowess.
 
-    My Codewars Badge:
+My Codewars Badge:
 
-    ![image](https://www.codewars.com/users/samuelw/badges/large)
+![image](https://www.codewars.com/users/samuelw/badges/large)
 
 🤝 **Open to Collaborate:**  
     - I'm all about teamwork! Let's collaborate on exciting projects or brainstorm new ones together.
