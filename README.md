@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sam
 
-Welcome to my profile! I'm a Java specialist with a passion for coding, currently immersed in private projects and diving deep into React. Here's a glimpse into what keeps me buzzing:
+Welcome to my profile! I'm a Java enthusiast and junior developer, currently immersed in private projects and diving deep into React. Here's a glimpse into what keeps me buzzing:
 
 🚀 **What I'm Up To:**  
     - Working on private projects, exploring fresh ideas, and crafting innovative solutions.
